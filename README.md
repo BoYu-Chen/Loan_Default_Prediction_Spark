@@ -1,6 +1,8 @@
 # Loan_Default_Prediction_Spark
 Use Spark to Analyze 1.5 GB Data of 2 Million Loans
 
+(Note: Spark framework dose not have good presentation in .ipynb format. Please feel free to download the .html format for better visualization.)
+
 # Goal
 1. Analyze 1.5GB of loan data with 2 million clients from Lending Club
 2. Build predictive model for loan default
